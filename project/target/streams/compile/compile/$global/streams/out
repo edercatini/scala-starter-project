@@ -1,0 +1,7 @@
+[error] /home/eder/IdeaProjects/ScalaPractice/project/Dependencies.scala:6:5: illegal start of statement (no modifiers allowed here)
+[error]     private lazy val testDependencies = Seq(
+[error]     ^
+[error] /home/eder/IdeaProjects/ScalaPractice/project/Dependencies.scala:10:5: illegal start of statement (no modifiers allowed here)
+[error]     private lazy val devDependencies = Seq(
+[error]     ^
+[error] two errors found
